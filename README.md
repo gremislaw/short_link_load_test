@@ -10,7 +10,7 @@
 
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/yourusername/short_link_load_test.git
+   git clone https://github.com/gremislaw/short_link_load_test.git
    ```
 2. Скачайте зависимости:
    ```bash
